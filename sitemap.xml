@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xyf1009.github.io/2026/09/24/%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E4%BB%8E%E4%B8%80%E4%B8%AA%E6%B0%B4%E5%9D%91%E5%88%B0%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%B0%B4%E5%9D%91/</loc>
+    
+    <lastmod>2026-09-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xyf1009.github.io/movies/</loc>
     
     <lastmod>2026-09-20</lastmod>
@@ -130,7 +139,7 @@
 
   <url>
     <loc>https://xyf1009.github.io/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,63 +147,70 @@
   
   <url>
     <loc>https://xyf1009.github.io/tags/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xyf1009.github.io/tags/%E6%97%A5%E5%B8%B8%E5%B9%BB%E6%83%B3/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xyf1009.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xyf1009.github.io/tags/%E9%9D%92%E6%98%A5/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xyf1009.github.io/tags/%E6%84%9F%E6%83%85/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xyf1009.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xyf1009.github.io/tags/%E6%96%87%E5%AD%A6%E6%84%9F%E6%82%9F/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xyf1009.github.io/tags/Hexo/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xyf1009.github.io/tags/%E5%BB%BA%E7%AB%99/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xyf1009.github.io/tags/%E6%88%90%E9%95%BF/</loc>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -203,21 +219,21 @@
   
   <url>
     <loc>https://xyf1009.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xyf1009.github.io/categories/%E4%BA%BA%E6%96%87-%E6%96%87%E5%AD%A6%E8%AF%84%E8%AE%BA/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://xyf1009.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
